@@ -1,0 +1,10 @@
+.ui.fixed.menu{
+    position: relative;
+    justify-content: center;
+}
+.ui.container.center{
+    justify-content: center;
+}
+.ui.container{
+    padding: 1%;
+}
